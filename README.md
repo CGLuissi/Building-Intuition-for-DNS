@@ -3,8 +3,8 @@
 </p>
 
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1> Building Intuition for DNS </h1>
+This tutorial showcases DNS and a fw of its use cases.<br />
 
 
 
