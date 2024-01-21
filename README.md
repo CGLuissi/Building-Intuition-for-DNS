@@ -1,7 +1,6 @@
-<p align="center">
-<img src="https://imgur.com/nWXmGHj" alt="osTicket logo"/>
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://imgur.com/a/ras6XJH)">
 </p>
-
 
 <h1> Building Intuition for DNS </h1>
 This tutorial showcases DNS and a few of its use cases.<br />
