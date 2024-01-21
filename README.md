@@ -1,6 +1,5 @@
-<p align="center" width="100%">
-    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://imgur.com/a/ras6XJH)">
-</p>
+![IMGUR DNS ](https://github.com/CGLuissi/Building-Intuition-for-DNS/assets/143234913/072a1f3d-a5cc-4232-b8f7-fa0d41c4230f)
+ 
 
 <h1> Building Intuition for DNS </h1>
 This tutorial showcases DNS and a few of its use cases.<br />
@@ -54,4 +53,6 @@ Put mainframe as the name and DC-1's private IP as the IP.It will create, and wh
 
   
 3.) In the previous step, we created a hostname and mapped it to an IPv4 address; we are now going to create a CNAME (Canonical name) record and observe how it connects an alias or nickname to a domain. In DC-1, right click empty space in DNS Manager and create a new CNAME. In the fully  qualified domain name box, enter www.google.com. For the alias, enter "search". Use the command "Nslookup search" and look at the results. What this served to do was make it so that we can use the "search" CNAME record to route traffic to Google.com. This function is useful for allowing you to reach websites or domains through alternative means: "www.Google.com" is a viable way to reach "Google.com" as the "www." segment  serves as a CNAME record.
+
+
 
